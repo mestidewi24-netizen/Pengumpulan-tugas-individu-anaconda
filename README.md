@@ -24,7 +24,7 @@ https://youtu.be/-PHjHe1OYQk
 - Python
 - Jupyter Notebook
 - Library pendukung lainnya sesuai video
-- 
+  
 ## Langkah-Langkah Praktik
 1. Menginstall Anaconda dan membuat environment baru.
 2. Menginstall library yang dibutuhkan.
