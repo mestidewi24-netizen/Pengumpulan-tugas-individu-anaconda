@@ -41,7 +41,7 @@ Berdasarkan praktik yang dilakukan:
 - Implementasi berjalan dengan baik setelah dependency terinstall dengan benar.
 
 ## Link Video Presentasi
-(Tempelkan link YouTube presentasi Anda di sini)
+[(Tempelkan link YouTube presentasi Anda di sini)](https://youtu.be/eHt60U1f2Do?si=niBGLDgbZFhGHaro)
 
 ## Kesimpulan
 Melalui tugas ini, saya dapat memahami dasar Machine Learning khususnya pada bidang Computer Vision serta mampu mengimplementasikan kode secara langsung menggunakan Python dan library terkait.
